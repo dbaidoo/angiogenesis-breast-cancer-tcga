@@ -36,3 +36,16 @@ R version 4.5.2
 ## Author
 
 Dennis Baidoo
+
+
+@article{TCGA2012,
+  author = {{The Cancer Genome Atlas Network}},
+  title = {Comprehensive molecular portraits of human breast tumours},
+  journal = {Nature},
+  year = {2012},
+  volume = {490},
+  number = {7418},
+  pages = {61--70},
+  doi = {10.1038/nature11412}
+}
+
