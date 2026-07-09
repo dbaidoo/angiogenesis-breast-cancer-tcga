@@ -5,7 +5,7 @@
 
 This repository contains the R code used to reproduce the analyses reported in:
 
-Baidoo D. et al.
+Baidoo D.
 
 ## Data source
 
